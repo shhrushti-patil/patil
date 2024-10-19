@@ -9,3 +9,4 @@ printf("hi");
 }
 
 >>>>>>> featurebranch
+printf("hi")

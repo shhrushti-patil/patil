@@ -3,4 +3,4 @@ void msin()
 {
 printf(" hello");
 }
-
+printf("hello")
